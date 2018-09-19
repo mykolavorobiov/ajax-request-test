@@ -1,0 +1,11 @@
+h1, h2 {
+  font-family: Lato;
+}
+button {
+  display: inline-block;
+  border-radius: 15%;
+  min-width: 50px;
+  min-height: 50px;
+  border: 1px solid black;
+  margin-left: 15px; 
+}
