@@ -1,2 +1,3 @@
-# [js-request](https://stackblitz.com/edit/js-request)
-# ajax-request-test
+# Ajax request test
+
+> Run *npm start* to start local server

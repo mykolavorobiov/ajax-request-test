@@ -2,6 +2,9 @@
   "name": "js-request",
   "description": "",
   "homepage": "https://stackblitz.com/edit/js-request",
+  "scripts": {
+    "start": "node server"
+  },
   "dependencies": {
     "express": "^4.16.3",
     "multiparty": "^4.2.1",
